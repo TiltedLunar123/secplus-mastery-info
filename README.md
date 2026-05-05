@@ -47,3 +47,7 @@ Privacy policy and terms of service are published on the live site:
 
 - https://secplus-mastery.netlify.app/privacy
 - https://secplus-mastery.netlify.app/terms
+
+---
+
+Copyright (c) 2026 Jude Hilgendorf. All rights reserved. The marketing copy in this repository is published as the public info page for SecPlus Mastery and is not licensed for redistribution or reuse.
