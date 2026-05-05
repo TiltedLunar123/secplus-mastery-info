@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tiltedlunar123.github.io/secplus-mastery-info/sitemap.xml
