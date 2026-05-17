@@ -2,3 +2,7 @@
 _site/
 .jekyll-cache/
 .jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/

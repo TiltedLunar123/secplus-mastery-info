@@ -1,0 +1,38 @@
+name: Jekyll build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build site
+        run: bundle exec jekyll build --strict_front_matter --trace
+        env:
+          JEKYLL_ENV: production
+
+      - name: Verify sitemap and SEO output
+        run: |
+          test -f _site/sitemap.xml || (echo "sitemap.xml missing from build output" && exit 1)
+          test -f _site/404.html || (echo "404.html missing from build output" && exit 1)
+          grep -q "<title>" _site/index.html || (echo "index.html missing <title> tag" && exit 1)
