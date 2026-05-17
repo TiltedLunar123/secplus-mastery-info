@@ -3,6 +3,7 @@ description: Mastery-based study platform for the CompTIA Security+ SY0-701 exam
 theme: jekyll-theme-cayman
 url: https://tiltedlunar123.github.io
 baseurl: /secplus-mastery-info
+repository: TiltedLunar123/secplus-mastery-info
 
 plugins:
   - jekyll-seo-tag
