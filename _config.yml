@@ -8,5 +8,18 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-author: Jude Hilgendorf
+author:
+  name: Jude Hilgendorf
+  email: jude49836@gmail.com
+
+# Consumed by jekyll-seo-tag to produce Open Graph and Twitter card
+# metadata on every page.
+social:
+  name: SecPlus Mastery
+  links:
+    - https://secplus-mastery.netlify.app
+
+twitter:
+  card: summary
+
 lang: en
