@@ -1,0 +1,18 @@
+Copyright (c) 2026 Jude Hilgendorf. All rights reserved.
+
+This repository contains the public marketing and informational copy
+for the SecPlus Mastery product. The text, structure, and layout of
+this site are not licensed for redistribution, derivative works, or
+reuse, in whole or in part, without the prior written permission of
+the copyright holder.
+
+The configuration files in this repository (Gemfile, _config.yml,
+.github/workflows/*) are kept here purely so the GitHub Pages site
+can build, and are not the substance of what this repository is
+publishing.
+
+Security+ and CompTIA are trademarks of their respective owners.
+SecPlus Mastery is an independent study tool and is not endorsed by,
+sponsored by, or affiliated with CompTIA.
+
+For permissions inquiries: jude49836@gmail.com
