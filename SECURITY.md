@@ -17,6 +17,6 @@ Expect a reply within a few business days.
 ## Out of scope
 
 The product itself (the study platform at
-https://secplus-mastery.netlify.app) lives in a separate repository
+https://secplusmastery.com) lives in a separate repository
 and has its own security contact. Issues in the application should be
 reported through that channel, not here.
