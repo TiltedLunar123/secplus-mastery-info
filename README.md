@@ -28,14 +28,14 @@ SecPlus Mastery helps candidates prepare for the CompTIA Security+ SY0-701 exam 
 ## Pricing
 
 - **Free** - Full access to Domain 1 lessons, quizzes, and spaced review. No credit card required.
-- **Pro** - $19 USD per month. All five domains, unlimited mock exams, full cross-domain spaced review, per-domain analytics.
-- **Lifetime** - $149 USD one-time. Everything in Pro, plus all future content updates, with no recurring charges.
+- **90-Day Pass** - $39 USD one-time. Unlocks all five domains for 90 days: every performance-based question, unlimited timed mock exams, the full cross-domain spaced-review queue, and per-domain analytics.
+- **Lifetime** - $99 USD one-time. Everything in the 90-Day Pass with no expiry date, plus all future content updates and a free SY0-702 upgrade when the next exam version lands.
 
-Payment is processed by Stripe. Subscriptions can be cancelled any time from the in-app billing portal.
+Payment is one-time and handled by Stripe. There is no subscription to manage or cancel.
 
-## Refunds
+## Pass guarantee and refunds
 
-Refunds are handled case by case. Customers who believe a refund is warranted can email jude49836@gmail.com within 14 days of their charge.
+If you work through the material and still don't pass, send your official score report and your access gets extended for free. That's a time extension, not a cash refund. For anything outside the guarantee, email jude49836@gmail.com within 14 days of the charge and it gets handled case by case.
 
 ## Not affiliated with CompTIA
 
