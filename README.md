@@ -2,7 +2,7 @@
 
 Mastery-based study platform for the CompTIA Security+ SY0-701 certification exam.
 
-**Live site:** https://secplus-mastery.netlify.app
+**Live site:** https://secplusmastery.com
 **Contact:** jude49836@gmail.com
 
 ## What the product does
@@ -45,8 +45,8 @@ Security+ and CompTIA are trademarks of their respective owners. SecPlus Mastery
 
 Privacy policy and terms of service are published on the live site:
 
-- https://secplus-mastery.netlify.app/privacy
-- https://secplus-mastery.netlify.app/terms
+- https://secplusmastery.com/privacy
+- https://secplusmastery.com/terms
 
 ---
 
