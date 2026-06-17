@@ -3,7 +3,7 @@
 Mastery-based study platform for the CompTIA Security+ SY0-701 certification exam.
 
 **Live site:** https://secplusmastery.com
-**Contact:** jude49836@gmail.com
+**Contact:** support@secplusmastery.com
 
 ## What the product does
 
@@ -35,7 +35,7 @@ Payment is one-time and handled by Stripe. There is no subscription to manage or
 
 ## Pass guarantee and refunds
 
-If you work through the material and still don't pass, send your official score report and your access gets extended for free. That's a time extension, not a cash refund. For anything outside the guarantee, email jude49836@gmail.com within 14 days of the charge and it gets handled case by case.
+If you work through the material and still don't pass, send your official score report and your access gets extended for free. That's a time extension, not a cash refund. For anything outside the guarantee, email support@secplusmastery.com within 14 days of the charge and it gets handled case by case.
 
 ## Not affiliated with CompTIA
 
