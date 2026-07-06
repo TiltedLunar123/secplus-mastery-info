@@ -24,3 +24,20 @@ twitter:
   card: summary
 
 lang: en
+
+# Keep repo-meta files out of the published site. Setting exclude here
+# replaces Jekyll's built-in list rather than extending it, so the usual
+# vendor and bundler entries are repeated below alongside the additions.
+# Without this, LICENSE, SECURITY.md, and CONTRIBUTING.md would be copied
+# to the site root and served as raw files.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .bundle
+  - vendor
+  - .jekyll-cache
+  - .sass-cache
+  - LICENSE
+  - SECURITY.md
+  - CONTRIBUTING.md
+  - PLAN_TODAY.md
