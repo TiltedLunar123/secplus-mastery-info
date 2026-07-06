@@ -31,8 +31,11 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Verify sitemap and SEO output
+      - name: Verify build output
         run: |
           test -f _site/sitemap.xml || (echo "sitemap.xml missing from build output" && exit 1)
           test -f _site/404.html || (echo "404.html missing from build output" && exit 1)
           grep -q "<title>" _site/index.html || (echo "index.html missing <title> tag" && exit 1)
+          for f in LICENSE SECURITY.md CONTRIBUTING.md Gemfile PLAN_TODAY.md; do
+            test ! -e "_site/$f" || (echo "$f should be excluded but was published to _site" && exit 1)
+          done
