@@ -9,7 +9,7 @@ server-side code, so the realistic scope here is narrow.
 If you spot something that looks like a security problem (broken
 link to a sensitive resource, exposed file that should not be public,
 a misconfiguration in the GitHub Pages setup), please send an email
-to jude49836@gmail.com rather than opening a public issue.
+to support@secplusmastery.com rather than opening a public issue.
 
 A short note describing what you saw and how you got there is plenty.
 Expect a reply within a few business days.
