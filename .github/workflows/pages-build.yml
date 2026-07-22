@@ -39,3 +39,6 @@ jobs:
           for f in LICENSE SECURITY.md CONTRIBUTING.md Gemfile PLAN_TODAY.md; do
             test ! -e "_site/$f" || (echo "$f should be excluded but was published to _site" && exit 1)
           done
+          if grep -rIn "gmail\.com" _site; then
+            echo "a personal gmail.com address leaked into the published site (see matches above); use the support@ contact instead" && exit 1
+          fi
