@@ -10,7 +10,7 @@ Mastery-based study platform for the CompTIA Security+ SY0-701 certification exa
 SecPlus Mastery helps candidates prepare for the CompTIA Security+ SY0-701 exam through a structured, mastery-based learning flow:
 
 1. **Learn** - Read lessons organized by the official SY0-701 exam objectives across all five domains.
-2. **Quiz** - Test understanding with multiple-choice and multi-select questions written against CompTIA's published objectives.
+2. **Quiz** - Test understanding with multiple-choice and multi-choose questions written against CompTIA's published objectives.
 3. **Gate check** - Learners must score 80% or higher on a section quiz before the next section unlocks, enforcing real mastery instead of passive reading.
 4. **Spaced review** - The SM-2 spaced-repetition algorithm schedules reviews of previously mastered concepts so retention compounds over weeks.
 5. **Mock exam** - A timed, 90-question, domain-weighted practice test that mirrors the real exam.
@@ -27,7 +27,7 @@ SecPlus Mastery helps candidates prepare for the CompTIA Security+ SY0-701 exam 
 
 ## Pricing
 
-- **Free** - Full access to Domain 1 lessons, quizzes, and spaced review. No credit card required.
+- **Free** - Full access to Domain 1 lessons, quizzes, and spaced review. No credit card needed.
 - **90-Day Pass** - $39 USD one-time. Unlocks all five domains for 90 days: every performance-based question, unlimited timed mock exams, the full cross-domain spaced-review queue, and per-domain analytics.
 - **Lifetime** - $99 USD one-time. Everything in the 90-Day Pass with no expiry date, plus all future content updates and a free SY0-702 upgrade when the next exam version lands.
 
