@@ -39,6 +39,10 @@ Payment is one-time and handled by Stripe. There is no subscription to manage or
 
 If you work through the material and still don't pass, send your official score report and your access gets extended for free. That's a time extension, not a cash refund. For anything outside the guarantee, email support@secplusmastery.com within 14 days of the charge and it gets handled case by case.
 
+## Who makes it
+
+Jude Hilgendorf, a cybersecurity student at Macomb Community College. He built the platform while preparing for SY0-701, studied on it, and passed the exam in August 2026. He writes the lessons, questions, labs, and mock exams himself, and checks them against the published CompTIA objectives.
+
 ## Not affiliated with CompTIA
 
 Security+ and CompTIA are trademarks of their respective owners. SecPlus Mastery is an independent study tool and is not endorsed by, sponsored by, or affiliated with CompTIA.
